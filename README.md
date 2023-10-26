@@ -1,4 +1,4 @@
-# Startup-Expansion-Dashboard
+# Startup Expansion Revenue
 In this project i used data about each startup at each state and country to decide to expansion based on revenue or not
 I have used some tools and setps to do this project , lits explain it.
 
